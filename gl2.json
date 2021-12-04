@@ -1,0 +1,8 @@
+{
+  "name": "tt-end",
+  "group_size": 20,
+  "groups": [
+    {"name": "dv", "length": 11},
+    {"name": "fb.misc", "length": 41}
+  ]
+}
