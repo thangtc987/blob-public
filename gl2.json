@@ -2,7 +2,7 @@
   "name": "tt-enc",
   "group_size": 20,
   "groups": [
-    {"name": "dv", "length": 11},
+    {"name": "dv", "length": 20},
     {"name": "fb.misc", "length": 66},
     {"name": "fb.ntvv.sd", "length": 29},
     {"name": "fb.ntvv", "length": 300},
