@@ -3,7 +3,7 @@
   "group_size": 20,
   "groups": [
     {"name": "dv", "length": 20},
-    {"name": "fb.htth", "length": 159},
+    {"name": "fb.htth", "length": 230},
     {"name": "fb.misc", "length": 80},
     {"name": "fb.ntvv.sd", "length": 29},
     {"name": "fb.ntvv", "length": 300},    
