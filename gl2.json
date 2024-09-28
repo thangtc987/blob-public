@@ -1,6 +1,7 @@
 {
   "name": "tt-enc",
   "group_size": 20,
+  "pattern": 1,
   "groups": [
     {"name": "dv", "length": 20},
     {"name": "fb.htth", "length": 230},
